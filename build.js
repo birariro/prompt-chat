@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const text1 = "Hello, noce to meet you."
+const text1 = "Hello, nice to meet you."
 const text2 = "My name is birariro"
 const text3 = "I want to have 'AirPods Max' 🎧"
 const text4 = "Thank you."

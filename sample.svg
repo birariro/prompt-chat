@@ -64,7 +64,7 @@
         <text class="terminal-text"> &gt; </text>
         <line x1="15" y1="0" x2="20" y2="0" stroke="#00FF00" stroke-width="2" class="underline"/>
         <text x="15" y="0" class="text text1 terminal-text">
-            Hello, noce to meet you.
+            Hello, nice to meet you.
         </text>
     </g>
 
